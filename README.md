@@ -13,7 +13,7 @@ ______
 
 ___
 
-![Εποπτικό Διαγραμμα του Συστήματος](\images\project overview 1.jpg)
+![Εποπτικό Διαγραμμα του Συστήματος]( images/project overview 1.jpg)
 
 ______
 
